@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://buymeacoffee.com/jkvjerint
+<br>
+https://www.patreon.com/join/9115288?
 -
 https://jkvjerin.github.io/jkvjerin/
 <h1 align="center">Hi 👋, I'm Jerin John</h1>
