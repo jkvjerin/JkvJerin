@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://buymeacoffee.com/jkvjerint
-<br>
-https://www.patreon.com/join/9115288?
 -
 https://jkvjerin.github.io/jkvjerin/
 <h1 align="center">Hi 👋, I'm Jerin John</h1>
+https://buymeacoffee.com/jkvjerint
+<br>
+https://www.patreon.com/join/9115288?
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkvjerin&label=Profile%20views&color=0e75b6&style=flat" alt="jkvjerin" /> </p>
